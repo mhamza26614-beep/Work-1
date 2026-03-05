@@ -1,0 +1,19 @@
+(a4)
+
+1_ZERO-SHOT PROMPTING
+
+My_Propmt:
+
+Summarize this story: One afternoon, a curious boy named Alex was bored after finishing his homework. Instead of watching TV, he decided to try something new. He set a rule for himself: “I will learn or create something in just 30 minutes.”
+On the first day, he spent 30 minutes learning how to bake a cake.
+On the second day, he used 30 minutes to learn some French.
+On the third day, he used 30 minutes how to build a structure of Dam.
+Days passed, and Alex kept doing his 30-minute idea every day.
+After one month, something amazing happened:
+He could bake tasty cakes.
+His French had grown a lot.
+He could build small creative models from simple things at home.
+His teacher noticed his creativity and asked, “Alex, how did you learn so many things so quickly?”
+Alex smiled and said,
+“I just used 30 minutes every day.”
+The teacher told the class, “Small effort every day can create big success.”
